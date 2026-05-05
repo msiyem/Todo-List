@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Task01",
+    "description": "networking lab",
+    "status": "inProgress",
+    "deadline": null,
+    "createdAt": "2026-05-04T18:08:10.036Z",
+    "updatedAt": "2026-05-04T18:08:57.809Z"
+  },
+  {
+    "id": 2,
+    "title": "Task02",
+    "description": "Dbms lab",
+    "status": "todo",
+    "deadline": "2026-05-05",
+    "createdAt": "2026-05-04T18:08:44.006Z",
+    "updatedAt": "2026-05-04T18:08:44.006Z"
+  },
+  {
+    "id": 3,
+    "title": "Task03",
+    "description": "web tech project",
+    "status": "completed",
+    "deadline": "2026-05-05",
+    "createdAt": "2026-05-04T18:09:38.721Z",
+    "updatedAt": "2026-05-04T18:10:04.543Z"
+  }
+]
