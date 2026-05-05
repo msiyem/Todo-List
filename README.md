@@ -124,6 +124,10 @@ Manual API testing has been performed for:
 - ✅ PUT update task
 - ✅ Input validation
 
+## Screenshots
+
+[![image.png](https://i.postimg.cc/KcJzF68K/image.png)](https://postimg.cc/7bJDnQ7D)
+
 
 ## Project Structure
 
