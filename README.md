@@ -59,7 +59,7 @@ task-manager/
 ## 🛠️ Tech Stack
 
 **Backend:** Node.js, Express, JSON (file-based storage)  
-**Frontend:** Next.js 14, React 18, TypeScript, Tailwind CSS, Radix UI  
+**Frontend:** Next.js 16+, React 19+, TypeScript, Tailwind CSS, Radix UI  
 **UI Components:** shadcn/ui
 
 ## 📌 API Endpoints
